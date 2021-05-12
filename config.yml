@@ -1,12 +1,68 @@
-title: Coding Bootcamp Prep
+title: Pre-Bootcamp-Prep
 description: >-
-  This is a course to help expose you to foundational concepts and tools before
-  you begin a Web Development Bootcamp.
+  This is curriculum for being best prepared before beginning a Web Development
+  Bootcamp.
 steps:
-  - course: githubtraining/introduction-to-github
-    description: The first step in your course
-  - link: 'https://lab.github.com'
-    title: Check out Learning Lab for more courses!
+  - title: HTML Masterclass
+    link: >-
+      https://www.youtube.com/watch?v=M-xorBfE_9Q&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=1
     description: >-
-      There are many more courses available on Learning Lab for you to check
-      out.
+      Introduction to the Basic Ideas and Syntax of HTML (Use Codepen.io) to
+      practice
+  - title: CSS Masterclass
+    link: 'https://www.youtube.com/watch?v=x8yjOjx4jGI'
+    description: >-
+      Introduction to Basic Ideas and Syntax of CSS (use Codepen.io) to
+      practice.
+  - title: Javascript in 60 Minutes
+    description: >-
+      Learn the Basics of Javascript (use a Node Repl at Repl.it to follow
+      along)
+    link: 'https://www.youtube.com/watch?v=yN9-eBh3dSw&t=355s'
+  - title: Tour of Vistual Studio Code
+    link: >-
+      https://www.youtube.com/watch?v=Pf54xUgWzhc&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=1&t=21s
+    description: Learn the Basics of Everyones Favorite Code Editor
+  - title: VSCode Extensions
+    description: Learn About Extensions that will Make Life Easier
+    link: >-
+      https://www.youtube.com/watch?v=eftHJZwHYTQ&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=2&t=1s
+  - title: Chrome Dev Tools
+    description: The Chrome Browser can make Debugging a lot Easier
+    link: >-
+      https://www.youtube.com/watch?v=Bx9bhPOxNZk&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=4&t=2s
+  - title: Basics of Bash and Bash Scripting
+    link: >-
+      https://www.youtube.com/watch?v=snOP94q34V4&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=6
+    description: Learn the Essentials of the Bash/Terminal/Shell
+  - title: Git Basics
+    link: >-
+      https://www.youtube.com/watch?v=L4zbgo7KFoA&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=7&t=9s
+    description: The Basics of working with Git to track your code
+  - title: Setting Up SSH Keys
+    description: Secure Access to your Code with SSH
+    link: >-
+      https://www.youtube.com/watch?v=6u84sACs0v0&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=8
+  - title: Working with Remote Repositories
+    description: 'How to Backup your code to Github, Gitlab and Bitbucket'
+    link: >-
+      https://www.youtube.com/watch?v=TOsVVxXdtu8&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=9&t=2s
+  - title: The Basics of Markdown Files
+    description: How to write documentation for coding projects.
+    link: >-
+      https://www.youtube.com/watch?v=lbpRomejEd0&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=10&t=13s
+  - title: 'Lab: Introduction to Github'
+    description: The Ins and Outs of Github.com
+    link: 'https://lab.github.com/githubtraining/introduction-to-github'
+  - title: Deploying a Static HTML/CSS/JS Website - Part 1
+    description: 'GH Pages, Netlify, Surge, Heroku'
+    link: >-
+      https://www.youtube.com/watch?v=HCDCrjQsEhg&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=11
+  - title: Deploying a Static HTML/CSS/JS Website - Part 2
+    link: >-
+      https://www.youtube.com/watch?v=2FVY_lm-mTY&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=14
+    description: 'Vercel, Firebase, Amplify, Azure Static Sites'
+  - title: Deploying a Static HTML/CSS/JS Website - Part 3
+    description: Using Render.com
+    link: >-
+      https://www.youtube.com/watch?v=bB7I-MeI6sY&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=12
