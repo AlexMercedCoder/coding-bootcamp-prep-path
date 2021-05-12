@@ -1,0 +1,12 @@
+title: Coding Bootcamp Prep
+description: >-
+  This is a course to help expose you to foundational concepts and tools before
+  you begin a Web Development Bootcamp.
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
